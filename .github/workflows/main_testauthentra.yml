@@ -59,4 +59,4 @@ jobs:
           app-name: 'testAuthEntra'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_815D92841E324ACAB061C56266D3C902 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_825F0147D5194EB5A011225644909C0A }}
